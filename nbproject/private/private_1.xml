@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_model/sales.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_view/add_item.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_model/item.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_view/admin_dashboard.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_view/delete_item.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_view/cashier_dashboard.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_view/delete_cashier.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_view/pay_amount.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_view/add_cashier.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_controller/sales_controller.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_controller/receipt_controller.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_model/user.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_model/cashier.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_model/receipt.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_controller/admin_controller.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_view/update_items.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_view/main_dashboard.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_model/admin.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_controller/login_controller.java</file>
+            <file>file:/C:/Users/Ashir%20Ali/Documents/NetBeansProjects/project/src/pos_view/view_sales.java</file>
+        </group>
+    </open-files>
+</project-private>
