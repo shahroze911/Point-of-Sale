@@ -1,2 +1,2 @@
 # Point-of-Sale
- Simple Shop Ponint of Sale using Java
+Point of Sale using Java
